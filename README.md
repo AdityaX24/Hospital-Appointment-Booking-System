@@ -1,5 +1,4 @@
-# SE-Project
-SE Project Hospital Appointment Booking System
+# Hospital Appointment Booking System
 
 The Hospital Appointment Booking System project is a comprehensive endeavor led by a team of four individuals. This initiative seeks to revolutionize healthcare appointment scheduling by digitizing the process to enhance accessibility, efficiency, and patient satisfaction. The project's primary objectives are to automate appointment booking, make healthcare services more readily available through digital channels, and prioritize user-friendliness for a hassle-free experience.
 
